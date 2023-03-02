@@ -3,7 +3,7 @@
   <img src="https://github.com/furkandvrc/about/blob/main/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Furkan and I like Flutter" src="images/personal_note.svg" />
+  <img height="60" alt="My Name is Furkan and I like Flutter" src="images/personal_note.svg" />
   <br />
   <br />
 
