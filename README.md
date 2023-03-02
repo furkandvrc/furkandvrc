@@ -11,7 +11,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="[https://brunnerliv.io](https://www.linkedin.com/in/furkan-d-88751b166/)">
+<a href="(https://www.linkedin.com/in/furkan-d-88751b166/)">
 <strong>Visit my Linkedin account </strong>
 <br />
 <br />
